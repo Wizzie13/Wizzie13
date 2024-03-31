@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Wizzie13
-- 👀 I’m interested in ...React.Js
-- 🌱 I’m currently learning ...React.Js
-- 💞️ I’m looking to collaborate on ...Projects
+- 👀 I’m interested in ...React.Js and Typescript
+- 🌱 I’m currently learning ...React.Js and Typescript
 - 📫 How to reach me ...Email: Wismoore7@outlook.com
 - ⚡ Fun fact: ...I play basketball🏀
 
