@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wizzie13
+- 👋 Hi, I’m Wisdom Mooere
 - 👀 I’m interested in ...React.Js and Typescript
 - 🌱 I’m currently learning ...React.Js and Typescript
 - 📫 How to reach me ...Email: Wismoore7@outlook.com
